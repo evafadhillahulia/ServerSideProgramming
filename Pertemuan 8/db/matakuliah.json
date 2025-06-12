@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "kode": "MK01",
+    "nama": "Pemrograman Sisi Klien",
+    "sks": 3
+  },
+  {
+    "id": "2",
+    "kode": "MK02",
+    "nama": "Pemrograman Sisi Server",
+    "sks": 3
+  },
+  {
+    "id": "3",
+    "kode": "MK03",
+    "nama": "Kalkulus",
+    "sks": 3
+  },
+  {
+    "id": "4",
+    "kode": "MK04",
+    "nama": "Rekayasa Perangkat Lunak",
+    "sks": 3
+  },
+  {
+    "id": "5",
+    "kode": "MK05",
+    "nama": "Kecerdasan Buatan",
+    "sks": 3
+  }
+]

@@ -1,0 +1,88 @@
+{
+  "dosen": [
+    {
+      "id": "2",
+      "nip": "DSN02",
+      "nama": "Budi Santoso",
+      "email": "budisantoso@gmail.com",
+      "maxSKS": 6
+    },
+    {
+      "id": "",
+      "nip": "DSN03",
+      "nama": "Ariyani Noor",
+      "email": "ariyani@gmail.com",
+      "maxSKS": 12
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": "2",
+      "nim": "MHS02",
+      "nama": "Budi",
+      "email": "budi@gmail.com",
+      "jurusan": "Sistem Informasi",
+      "maxSKS": 24
+    },
+    {
+      "id": "c07b",
+      "nim": "MHS03",
+      "nama": "Halda Triyanida",
+      "email": "handayani@gmail.com",
+      "jurusan": "Manajemen",
+      "maxSKS": "22"
+    }
+  ],
+  "matakuliah": [
+    {
+      "kode": "MK01",
+      "nama": "Pemrograman Sisi Klien 2",
+      "sks": 3,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "kode": "MK02",
+      "nama": "Pemrograman Sisi Server",
+      "sks": 3
+    },
+    {
+      "id": "3",
+      "kode": "MK03",
+      "nama": "Kalkulus",
+      "sks": 3
+    },
+    {
+      "id": "4",
+      "kode": "MK04",
+      "nama": "Rekayasa Perangkat Lunak",
+      "sks": 3
+    },
+    {
+      "id": "",
+      "kode": "MK06",
+      "nama": "Fisika",
+      "sks": "4"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "nama": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "Mahasiswa",
+      "email": "mahasiswa@gmail.com",
+      "password": "mahasiswa123"
+    },
+    {
+      "id": "5593",
+      "nama": "Eva Fadhillah Ulia",
+      "email": "evafadhillahulia22@gmail.com",
+      "password": "eva123"
+    }
+  ]
+}

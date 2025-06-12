@@ -1,0 +1,16 @@
+// Header.js => src/Components/Header.js
+
+import React from "react";
+import ProfileMenu from "../Components/ProfileMenu";
+
+const Header = () => {
+  return (
+    <header className="bg-white shadow-md">
+      <div className="flex justify-between items-center px-6 py-4">
+        <h1 className="text-2xl font-semibold text-gray-800">UDINUS HOME</h1>
+        <ProfileMenu />
+      </div>
+    </header>
+  );
+};
+export default Header;
