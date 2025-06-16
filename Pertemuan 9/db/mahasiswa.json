@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "nim": "MHS01",
+    "nama": "Andi",
+    "email": "andi@gmail.com",
+    "jurusan": "Informatika",
+    "maxSKS": 24
+  },
+  {
+    "id": "2",
+    "nim": "MHS02",
+    "nama": "Budi",
+    "email": "budi@gmail.com",
+    "jurusan": "Sistem Informasi",
+    "maxSKS": 24
+
+  }
+]

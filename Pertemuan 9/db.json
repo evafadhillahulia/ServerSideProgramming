@@ -1,0 +1,119 @@
+{
+  "dosen": [
+    {
+      "id": "1",
+      "nip": "DSN01",
+      "nama": "Andi Saputra",
+      "email": "andisaputra@gmail.com",
+      "maxSKS": 12
+    },
+    {
+      "id": "2",
+      "nip": "DSN02",
+      "nama": "Budi Santoso",
+      "email": "budisantoso@gmail.com",
+      "maxSKS": 6
+    }
+  ],
+  "mahasiswa": [
+    {
+      "id": "1",
+      "nim": "MHS01",
+      "nama": "Andi",
+      "email": "andi@gmail.com",
+      "jurusan": "Informatika",
+      "maxSKS": 24
+    },
+    {
+      "id": "2",
+      "nim": "MHS02",
+      "nama": "Budi",
+      "email": "budi@gmail.com",
+      "jurusan": "Sistem Informasi",
+      "maxSKS": 24
+    },
+    {
+      "nim": "MHS03",
+      "nama": "Yana Yanial",
+      "email": "yana@gmail.com",
+      "jurusan": "Informatika",
+      "maxSKS": "18",
+      "id": "d0a1"
+    }
+  ],
+  "matakuliah": [
+    {
+      "id": "1",
+      "kode": "MK01",
+      "nama": "Pemrograman Sisi Klien",
+      "sks": 3
+    },
+    {
+      "id": "2",
+      "kode": "MK02",
+      "nama": "Pemrograman Sisi Server",
+      "sks": 3
+    },
+    {
+      "id": "3",
+      "kode": "MK03",
+      "nama": "Kalkulus",
+      "sks": 3
+    },
+    {
+      "id": "4",
+      "kode": "MK04",
+      "nama": "Rekayasa Perangkat Lunak",
+      "sks": 3
+    },
+    {
+      "id": "5",
+      "kode": "MK05",
+      "nama": "Kecerdasan Buatan",
+      "sks": 3
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "nama": "Admin 1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "role": "admin",
+      "permissions": [
+        "dashboard.page",
+        "mahasiswa.page",
+        "mahasiswa.read",
+        "mahasiswa.create",
+        "mahasiswa.update",
+        "mahasiswa.delete",
+        "dosen.page",
+        "dosen.read",
+        "dosen.create",
+        "dosen.update",
+        "dosen.delete",
+        "matakuliah.page",
+        "matakuliah.read",
+        "matakuliah.create",
+        "matakuliah.update",
+        "matakuliah.delete",
+        "krs.page",
+        "krs.read",
+        "krs.create",
+        "krs.update",
+        "krs.delete"
+      ]
+    },
+    {
+      "id": "2",
+      "nama": "Mahasiswa 1",
+      "email": "mahasiswa@gmail.com",
+      "password": "mahasiswa123",
+      "role": "mahasiswa",
+      "permissions": [
+        "krs.page",
+        "krs.read"
+      ]
+    }
+  ]
+}

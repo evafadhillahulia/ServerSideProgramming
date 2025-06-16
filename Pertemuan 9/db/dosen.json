@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "nip": "DSN01",
+    "nama": "Andi Saputra",
+    "email": "andisaputra@gmail.com",
+    "maxSKS": 12
+  },
+  {
+    "id": "2",
+    "nip": "DSN02",
+    "nama": "Budi Santoso",
+    "email": "budisantoso@gmail.com",
+    "maxSKS": 6
+  }
+]
